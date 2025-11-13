@@ -42,7 +42,9 @@ Nothing yet.
 
 ### Continued development
 
-Nothing yet
+These are the things I still need to get better at or study more about:
+
+- How to develop a mobile first layout
 
 ### Useful resources
 
