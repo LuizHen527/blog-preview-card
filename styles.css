@@ -29,3 +29,6 @@
          url('./assets/fonts/static/Figtree-Medium.woff') format('woff');
 }
 
+body {
+    background-color: var(--yellow-clr);
+}
