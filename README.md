@@ -49,7 +49,7 @@ These are the things I still need to get better at or study more about:
 
 ### Useful resources
 
-[How to use media queries by Kevin Powell](https://www.example.com) - Great video about media queries. He also explain about container queries. I got curious about container queries, interesting concept.
+[How to use media queries by Kevin Powell](https://www.youtube.com/watch?v=2rlWBZ17Wes&t=10s) - Great video about media queries. He also explain about container queries. I got curious about container queries, interesting concept.
 <!-- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept. -->
 
