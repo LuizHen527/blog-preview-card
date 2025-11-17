@@ -77,6 +77,10 @@ body {
     font-size: 24px;
 }
 
+.card-title:hover {
+    color: var(--yellow-clr);
+}
+
 .card-description {
     color: var(--gray-500);
     font-size: 16px;
