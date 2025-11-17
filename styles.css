@@ -37,6 +37,8 @@ body {
     justify-content: center;
 
     font-family: 'Figtree';
+    color: var(--gray-950);
+    font-weight: 950;
 }
 
 .card-container {
@@ -47,4 +49,12 @@ body {
     border-radius: 20px;
     box-shadow: 8px 8px var(--gray-950);
     padding: 24px;
+}
+
+.card-tag {
+    font-size: 14px;
+    background-color: var(--yellow-clr);
+    padding: 4px 12px;
+    border-radius: 4px;
+    line-height: 150%;
 }
