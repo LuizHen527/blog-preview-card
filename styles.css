@@ -18,14 +18,14 @@
 @font-face {
     font-family: 'Figtree';
     font-weight: 950;
-    src: url('./assets/fonts/static/Figtree-ExtraBold.woff2') format('woff2')
+    src: url('./assets/fonts/static/Figtree-ExtraBold.woff2') format('woff2'),
          url('./assets/fonts/static/Figtree-ExtraBold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Figtree';
     font-weight: 500;
-    src: url('./assets/fonts/static/Figtree-Medium.woff2') format('woff2')
+    src: url('./assets/fonts/static/Figtree-Medium.woff2') format('woff2'),
          url('./assets/fonts/static/Figtree-Medium.woff') format('woff');
 }
 
@@ -35,6 +35,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+
+    font-family: 'Figtree';
 }
 
 .card-container {
@@ -44,4 +46,5 @@ body {
     border: 1px solid var(--gray-950);
     border-radius: 20px;
     box-shadow: 8px 8px var(--gray-950);
+    padding: 24px;
 }
