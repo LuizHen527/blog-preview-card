@@ -51,12 +51,22 @@ body {
     border-radius: 20px;
     box-shadow: 8px 8px var(--gray-950);
     padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
 }
 
 .card-tag {
     background-color: var(--yellow-clr);
     padding: 4px 12px;
     border-radius: 4px;
+    width: fit-content;
 }
 
 .card-date {
@@ -71,6 +81,13 @@ body {
     color: var(--gray-500);
     font-size: 16px;
     font-weight: 500;
+    line-height: 150%;
+}
+
+.author-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
 }
 
 .author-container img {
@@ -79,4 +96,9 @@ body {
 
 .author-container h2 {
     font-size: 14px;
+    
+}
+
+.main-image {
+    border-radius: 10px;
 }
