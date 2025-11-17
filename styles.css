@@ -39,6 +39,8 @@ body {
     font-family: 'Figtree';
     color: var(--gray-950);
     font-weight: 950;
+    font-size: 14px;
+    line-height: 150%;
 }
 
 .card-container {
@@ -52,9 +54,29 @@ body {
 }
 
 .card-tag {
-    font-size: 14px;
     background-color: var(--yellow-clr);
     padding: 4px 12px;
     border-radius: 4px;
-    line-height: 150%;
+}
+
+.card-date {
+    font-weight: 500;
+}
+
+.card-title {
+    font-size: 24px;
+}
+
+.card-description {
+    color: var(--gray-500);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.author-container img {
+    width: 32px;
+}
+
+.author-container h2 {
+    font-size: 14px;
 }
