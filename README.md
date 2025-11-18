@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a project made to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Status: In Progress.
+This is a project made to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Status: Finished.
 
 ## Table of contents
 
@@ -18,12 +18,11 @@ This is a project made to the [Blog preview card challenge on Frontend Mentor](h
 
 ### Screenshot
 
-Going to add later.
-<!-- ![](./screenshot.jpg) -->
+![Page screenshot](./assets/images/page-screenshoot.png)
 
 ### Links
 
-Nothing yet.
+Live Site URL: [Live on Github Pages](https://luizhen527.github.io/blog-preview-card/)
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
@@ -34,11 +33,11 @@ Nothing yet.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ### What I learned
 
-Nothing yet.
+- How to use media queries;
+- How to make a good use of css custom properties in media queries.
 
 ### Continued development
 
